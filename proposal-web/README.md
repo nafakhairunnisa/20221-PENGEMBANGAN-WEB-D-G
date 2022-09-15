@@ -30,6 +30,7 @@ idUser|integer|1
 namaUser|string|Budi
 username|string|budii
 email|string|budi@gmail.com
+password|string|*****
 
 ### Buku
 Atribut|Tipe Data|Contoh
@@ -51,6 +52,7 @@ komentar|text|bliblibli
 Atribut|Tipe Data|Contoh
 ---|---|---
 usernameAdmin|string|adminwebsite
+password|string|*****
 
 ## UX Wireframe
 ![1663212061599](https://user-images.githubusercontent.com/83491188/190306415-bec25dcf-944c-4687-a1fd-f33cb6efeac7.jpg)
