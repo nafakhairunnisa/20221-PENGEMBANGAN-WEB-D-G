@@ -53,3 +53,4 @@ Atribut|Tipe Data|Contoh
 usernameAdmin|string|adminwebsite
 
 ## UX Wireframe
+![1663212061599](https://user-images.githubusercontent.com/83491188/190306415-bec25dcf-944c-4687-a1fd-f33cb6efeac7.jpg)
