@@ -1,3 +1,0 @@
-## Browser API
-
-Dari project
