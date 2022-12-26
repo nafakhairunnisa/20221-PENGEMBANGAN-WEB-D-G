@@ -1,2 +1,3 @@
 ## Deploy PHP Project to Cpanel
- deploy project sendiri
+
+DONE bareng sama temen kelas
