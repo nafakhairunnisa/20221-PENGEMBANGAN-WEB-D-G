@@ -1,3 +1,3 @@
 # Apache Web Server installation & Operation
 
-![image](https://user-images.githubusercontent.com/83491188/209528003-8c264d9f-e39d-443c-8b13-c8fb08fb4d94.png)
+![image](https://user-images.githubusercontent.com/83491188/209528041-da7630d6-5ffa-4734-9e32-3e46774a1cb7.png)
